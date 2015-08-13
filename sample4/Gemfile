@@ -1,0 +1,7 @@
+source 'https://rubygems.org/'
+
+gem 'jrubyfx'
+gem 'jrubyfx-fxmlloader'
+
+# テストデータ作成用
+gem 'faker'
