@@ -1,2 +1,4 @@
 Gemfile.lock
 .jrubyfx_cache
+.idea
+.DS_Store
